@@ -1,0 +1,27 @@
+# ninja log v5
+4	1868	7320392730222370	GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+1871	8156	7320392793542217	CMakeFiles/GoodHouseClient_1.dir/controller.cpp.obj	f23c952e6ac4e7a2
+1873	7711	7320392789086900	CMakeFiles/GoodHouseClient_1.dir/button.cpp.obj	c05cd758b6c1a2ed
+4	1868	7320392730222370	GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+1869	7545	7320392787433553	CMakeFiles/GoodHouseClient_1.dir/main.cpp.obj	904cb9607cee531
+8156	8606	7320392796184745	GoodHouseClient_1.exe	e5acd425b0166c88
+1879	7751	7320392789372892	CMakeFiles/GoodHouseClient_1.dir/GoodHouseClient_1_autogen/mocs_compilation.cpp.obj	d2975acc46083f5
+1876	7645	7320392788417772	CMakeFiles/GoodHouseClient_1.dir/mainwindow.cpp.obj	371746d163fc036f
+4	1868	7320392730222370	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+4	1868	7320392730222370	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+5	1757	7320423062761158	GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+5	1757	7320423062761158	GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+5	1757	7320423062761158	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+5	1757	7320423062761158	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+1760	7532	7320423120895715	CMakeFiles/GoodHouseClient_1.dir/main.cpp.obj	f7f213d40fd45b50
+1766	7546	7320423121030955	CMakeFiles/GoodHouseClient_1.dir/mainwindow.cpp.obj	8df35aea6a3d3087
+1761	7564	7320423121221723	CMakeFiles/GoodHouseClient_1.dir/button.cpp.obj	3ea3883025fd1b15
+1757	7608	7320423121653001	CMakeFiles/GoodHouseClient_1.dir/GoodHouseClient_1_autogen/mocs_compilation.cpp.obj	7b2280bfd276898f
+1764	7902	7320423124584039	CMakeFiles/GoodHouseClient_1.dir/controller.cpp.obj	e5c7bdfff528beb0
+7902	8332	7320423127283377	GoodHouseClient_1.exe	f1fce4fbc8fdad3c
+6	136	7320428095380549	GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+6	136	7320428095380549	GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+6	136	7320428095380549	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/timestamp	d2c1915b82f92c84
+6	136	7320428095380549	E:/C++QTDemo/GoodHouse/one_err/GoodHouseClient_1/cmake-build-debug/GoodHouseClient_1_autogen/mocs_compilation.cpp	d2c1915b82f92c84
+141	6951	7320428163508787	CMakeFiles/GoodHouseClient_1.dir/controller.cpp.obj	e5c7bdfff528beb0
+6952	7366	7320428166359042	GoodHouseClient_1.exe	f1fce4fbc8fdad3c
